@@ -1,0 +1,27 @@
+{
+  "name": "bottest",
+  "version": "1.0.0",
+  "description": "\"Build a bot in Node.js on Microsoft Bot Framework.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/night18/BOT_test.git"
+  },
+  "keywords": [
+    "bot",
+    "facebook"
+  ],
+  "author": "ChunWei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/night18/BOT_test/issues"
+  },
+  "homepage": "https://github.com/night18/BOT_test#readme",
+  "dependencies": {
+    "botbuilder": "^3.5.1",
+    "restify": "^4.3.0"
+  }
+}
